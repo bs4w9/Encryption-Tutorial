@@ -11,7 +11,7 @@ Encoded message: KBXNULPKV
 
 Show Answer: [Show](./page2.md)
 
-Cipher:
+Cipher:  
 A | Z  
 B | Y  
 C | X  
